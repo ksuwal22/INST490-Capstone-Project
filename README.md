@@ -11,5 +11,7 @@ soil.csv: data set measuring moisture levels of subsoil and top soil
 
 data.ipynd: jupyter notebook where we merged our data
 
-statistics.ipynb : jupyter notebook where we performed all our statistical analysis and created out prediction model
+statistics.ipynb: jupyter notebook where we performed all our statistical analysis and created out prediction model
+
+soil.ipynb: jupyter notebook of correlations between soil and weather and corn yeilds showing impact of AI
 
