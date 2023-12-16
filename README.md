@@ -1,11 +1,13 @@
 # INST490-Capstone-Project
-Data analysis project on impact of weather on corn yields in Maryland
+Data analysis project on impact of weather and soil on corn yields in Maryland
 
 bushelsPerAcre.csv : Corn yield dataset
 
 weather.csv: data set includig data about weather variables
 
-corn_yield.csv : dataset after cleaning and merging previous two data set
+corn_yield.csv : data set after cleaning and merging previous two data set
+
+soil.csv: data set measuring moisture levels of subsoil and top soil
 
 data.ipynd: jupyter notebook where we merged our data
 
