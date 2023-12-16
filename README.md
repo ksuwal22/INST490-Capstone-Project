@@ -1,17 +1,21 @@
 # INST490-Capstone-Project
 Data analysis project on impact of weather and soil on corn yields in Maryland
 
-bushelsPerAcre.csv : Corn yield dataset
+Data Sets: Contains all the data sets used for this project
 
-weather.csv: data set includig data about weather variables
+  soil.csv: data set measuring moisture levels of subsoil and top soil
 
-corn_yield.csv : data set after cleaning and merging previous two data set
+  bushelsPerAcre.csv : Corn yield dataset
 
-soil.csv: data set measuring moisture levels of subsoil and top soil
+  weather.csv: data set includig data about weather variables
 
-data.ipynd: jupyter notebook where we merged our data
+  corn_yield.csv : data set after cleaning and merging previous two data set
 
-statistics.ipynb: jupyter notebook where we performed all our statistical analysis and created out prediction model
+Data Visualizations: Contains all the data visualizations created for this project
 
-soil.ipynb: jupyter notebook of correlations between soil and weather and corn yeilds showing impact of AI
+  data.ipynd: jupyter notebook where we merged our data
+  
+  statistics.ipynb: jupyter notebook where we performed all our statistical analysis and created out prediction model
+  
+  soil.ipynb: jupyter notebook of correlations between soil and weather and corn yeilds showing impact of AI
 
